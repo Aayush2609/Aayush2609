@@ -11,7 +11,7 @@
 
 - 🤝 I have served as a **Backend Developer during my summer internship at MemeChat**
 
-- 👨‍💻 All of my projects are available at: [https://aayush2609.github.io/AayushDeep/](https://aayush2609.github.io/AayushDeep/)
+- 👨‍💻 All of my projects are available at: [https://aayush2609.github.io/](https://aayush2609.github.io/)
 
 <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
