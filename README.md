@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://aayush2609.github.io/AayushDeep/](https://aayush2609.github.io/AayushDeep/)
 
-<img align="right" alt="GIF" width="400" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 📫 Reach out to me: [https://linktr.ee/Aayush_Deep](https://linktr.ee/Aayush_Deep)
 
