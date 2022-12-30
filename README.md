@@ -1,7 +1,7 @@
 <img align="left" alt="GIF" width="400" src="https://sunsetmediawave.files.wordpress.com/2014/11/2-1.gif?w=764" />
 <br><br>
 <h1 align="center">Hi 👋<br> I'm Aayush Deep</h1><br><br><br><br><br>
-<h3 align="center">Ex-Intern @MemeChat | GDSC-LPU | Core-Intel IoT LPU | Developer | AI-Ml Enthusiast</h3>
+<h3 align="center">Ex-Intern @MemeChat | GDSC-LPU | Core-Intel IoT LPU | Developer | AI-ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush2609&label=Profile%20views&color=0e75b6&style=flat" alt="aayush2609" /> </p>
 
